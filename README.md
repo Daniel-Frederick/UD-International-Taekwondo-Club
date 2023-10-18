@@ -1,6 +1,6 @@
 # UD-International-Taekwondo-Club
 
-This is the Univeristy of Dayton International Taekwondo Club's website.
+This is the university of Dayton International Taekwondo Club's website.
 
 Current website: https://international-taekwondo.web.app/
 
